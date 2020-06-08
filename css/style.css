@@ -220,6 +220,19 @@ h6 {
   color: #fff;
 }
 
+#intro .intro-content .btn-submit {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 32px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+}
+
 #intro .intro-content .btn-get-started {
   background: #0c2e8a;
   border: 2px solid #0c2e8a;
